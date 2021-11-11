@@ -1,3 +1,3 @@
 # documentation-zh
 
-请查看wiki文档
+https://github.com/invault-space/documentation-zh/wiki
